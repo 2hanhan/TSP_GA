@@ -1,5 +1,10 @@
 # TSP_GA
 TSP_GA C++遗传算法处理TSP问题
+##使用的算法
+1.  交叉算子 PMXcross
+2.  变异算子 Inversionmutate
+3.  适值函数 距离
+4.  选择策略 PRWselect轮盘赌
 
 # 使用
 ```bash
