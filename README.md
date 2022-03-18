@@ -1,7 +1,7 @@
 # TSP_GA
-##描述
+## 描述
 TSP_GA C++遗传算法处理TSP问题
-##使用的算法
+## 使用的算法
 1.  交叉算子 PMXcross
 2.  变异算子 Inversionmutate
 3.  适值函数 距离
