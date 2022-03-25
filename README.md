@@ -1,4 +1,5 @@
 # TSP_GA
+> 参考可以把star留下QAQ
 ## 描述
 TSP_GA C++遗传算法处理TSP问题
 ## 使用的算法
@@ -31,3 +32,6 @@ sudo chmod +x build.sh
 
 ## 结果
 保存在result的表格中
+
+## 实验报告
+实验报告的[world](实验报告.docx)文件
